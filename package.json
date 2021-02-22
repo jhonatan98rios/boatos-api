@@ -1,11 +1,14 @@
 {
-  "name": "news-api",
+  "name": "fareja-fatos-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
+  },
+  "engines": {
+    "node": "11.x"
   },
   "keywords": [],
   "author": "Matheus Casante",
